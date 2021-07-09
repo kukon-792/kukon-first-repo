@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is kukon new file
 bjj nnu knuuy
  bb
@@ -5,3 +6,13 @@ bjj nnu knuuy
 hghybbmuhm
 byygjhju
 jmbygmyk
+=======
+this is kukon file
+mjhbkbk
+nkjj
+k njljuol
+ ,niujkl
+ ,ihul
+ gbkuli
+ kukon miah work on this project
+>>>>>>> 96aed6a858b4a3bd2fe71b8dd3791d92767f5ab2
